@@ -1,0 +1,10 @@
+1) Please copy the "blogapp" folder and paste in htdocs of xampp  drive .
+2) And from the database folder copy the "blogapp" folder and paste inside the folder  "xampp->mysql->data".
+3) Now Launch the XAMPP server and start Apache and MySQL
+4) Now open the local browser and type in the address:
+     localhost/blogtask
+   and press Enter
+5) Now all the functionalities are there,
+
+Please check and tell if anything I missed , I have added one extra image functionality too but still there's I left then 
+please tell me I will try to resolve again.
